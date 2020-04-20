@@ -1,8 +1,8 @@
 {
-  "name": "Screensharing for Nextcloud Video calls app",
-  "description": "Screensharing utility for the Nextcloud Video calls app.",
-  "author": "Joachim Bauch <bauch@struktur.de>",
-  "homepage_url": "https://nextcloud.com",
+  "name": "CloudSpace Screenshare",
+  "description": "Screensharing utility for the CloudSpace Video calls.",
+  "author": "WorldPosta CloudSpace <contact@worldposta.com>",
+  "homepage_url": "https://worldposta.com",
   "version": "1.0.0",
   "manifest_version": 2,
   "minimum_chrome_version": "34",
